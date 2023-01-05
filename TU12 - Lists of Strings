@@ -1,0 +1,6 @@
+myList = [20, 23, 26, 29, 32]
+print(myList[0:4])
+gameCharacter = ['Mario', 'Pikachu', 'Sonic', 'Link', 'Master Chief', 'Lara Croft']
+gameCharacterInput = input("Please add a game character ")
+gameCharacter.append(gameCharacterInput)
+print(gameCharacter)
